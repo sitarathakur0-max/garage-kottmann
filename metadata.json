@@ -1,0 +1,6 @@
+{
+  "name": "Garage Kottmann",
+  "description": "Ihre zuverlässige Autowerkstatt an der Regensbergstrasse 244 in 8050 Zürich. Fachmännische Reparaturen, Service, Bremsen, MFK-Vorbereitung und Fahrzeugdiagnose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
